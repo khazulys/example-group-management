@@ -1,4 +1,4 @@
-APIKEY = "41c8422b5678fb9e58d4629ebc4df0401f8f1e6b24d9deb4"
+APIKEY = "Your apikey"
 SESSION = "whatsapp_sessions"
 
 SPAM_THRESHOLD = 5
